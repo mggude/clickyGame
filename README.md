@@ -1,3 +1,10 @@
+# Clicky Game!
+
+A memory game created with React. Click on an image to earn points, but don't click on any more than once!
+
+
+## Create React App Info
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts

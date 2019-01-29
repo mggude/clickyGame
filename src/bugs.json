@@ -1,0 +1,50 @@
+[
+    {
+      "id": 1,
+      "image": "mantis.png"
+    },
+    {
+      "id": 2,
+      "image": "butterfly.png"    
+    },
+    {
+      "id": 3,
+      "image": "ladybug.png"
+    },
+    {
+      "id": 4,
+      "image": "bee.png" 
+    },
+    {
+      "id": 5,
+      "image": "spider.png"
+    },
+    {
+      "id": 6,
+      "image": "fly.png"
+    },
+    {
+      "id": 7,
+      "image": "dragonfly.png"
+    },
+    {
+      "id": 8,
+      "image": "moth.png"
+    },
+    {
+      "id": 9,
+      "image": "wasp.png"
+    },
+    {
+      "id": 10,
+      "image": "beetle.png"
+    },
+    {
+      "id": 11,
+      "image": "cricket.png"
+    },
+    {
+      "id": 12,
+      "image": "damselfly.png"
+    }
+  ]
